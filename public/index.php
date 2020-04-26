@@ -4,7 +4,7 @@ use App\Kernel;
 use Symfony\Component\ErrorHandler\Debug;
 use Symfony\Component\HttpFoundation\Request;
 
-echo "test1";
+echo "test-testBranchgit";
 
 require dirname(__DIR__).'/config/bootstrap.php';
 
