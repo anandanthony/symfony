@@ -4,7 +4,7 @@ use App\Kernel;
 use Symfony\Component\ErrorHandler\Debug;
 use Symfony\Component\HttpFoundation\Request;
 
-echo "PROD-1-CXP";
+echo "PROD-1a-CXP";
 
 require dirname(__DIR__).'/config/bootstrap.php';
 
